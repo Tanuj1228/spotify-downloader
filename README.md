@@ -10,7 +10,7 @@
 # spotDL v4
 
 **spotDL** finds songs from Spotify playlists on YouTube and downloads them - along with album art, lyrics and metadata.
-
+# BY- Tanuj Thour
 
 [![MIT License](https://img.shields.io/github/license/spotdl/spotify-downloader?color=44CC11&style=flat-square)](https://github.com/spotDL/spotify-downloader/blob/master/LICENSE)
 [![PyPI version](https://img.shields.io/pypi/pyversions/spotDL?color=%2344CC11&style=flat-square)](https://pypi.org/project/spotdl/)
